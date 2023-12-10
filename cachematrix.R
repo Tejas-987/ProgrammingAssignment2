@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-These functions written in partial fulfillment of Coursera Data Science: R Programming 
+##These functions written in partial fulfillment of Coursera Data Science: R Programming 
 ## Week 3 Assignment; week beginning January 18, 2016; GitHub user: PamlaM
 
 ## Write a short comment describing this function
